@@ -6,11 +6,11 @@
 This library is self explanatory.
 
 ## Run
-To install this module to an external project, follow the procedure:
+To run this library, follow the procedure:
 
 1. Fork or clone this repo in your local machine.
 
-2. Inside project directory run 
+2. Inside project directory run: 
    ```js
    node fapor.js
    ```
